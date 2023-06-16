@@ -1,8 +1,9 @@
 # Locscan
 
 ## Description:
-#### A simple bash script for local IPv4 network ports scanner.
-#### Locscan help to locally identify opening port numbers from a giving host/ip address without being spotted by local IDS."
+A simple bash script for local IPv4 network ports scanner.
+
+Locscan help to locally identify opening port numbers from a giving host/ip address without being spotted by local IDS."
 
 ## How it works:
     Syntax: locscan [-h|-u|--version].
