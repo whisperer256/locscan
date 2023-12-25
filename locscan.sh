@@ -5,17 +5,17 @@ revision="1.8.3"
 # Help function
 Help()
 {
-    echo "Locscan help to locally identify opening port numbers from"
-    echo "a giving host/ip address without being spotted by local IDS."
+    echo "Locscan helps to locally identify opening port numbers from"
+    echo "a giving host/IP address without being spotted by local IDS."
     echo
     echo "Syntax: locscan [-h|-u|--version]."
     echo
     echo "Options:"
     echo "-h | --help    Print this help message."
-    echo "-u | --url     The given host/ip address to ports scan."
-    echo "--version     This script version number."
+    echo "-u | --url     The given host/IP address to ports scan."
+    echo "--version      This script version number."
     echo
-    echo "*Only to use for educational or ethical purpose."
+    echo "*Only for educational or ethical purpose."
 }
 
 
